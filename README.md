@@ -1,7 +1,7 @@
 # 🐱‍💻 About Me:
 🚀 **Phan Quang Huy | Aspiring Backend Java Developer**  
 
-🔹 **IT Student @ FPT University | Major: Software Engineering**  
+🔹 **IT Student @ FPT University HCM | Major: Software Engineering**  
 🔹 Passionate about scalable, reliable, and secure backend systems  
 🔹 Skilled in **Java, Spring Boot, RESTful APIs, SQL/NoSQL, Redis**  
 🔹 Experienced with **Elasticsearch, Kibana, Logstash for logging & analytics**  
