@@ -5,7 +5,7 @@
 🔹 Passionate about scalable, reliable, and secure backend systems  
 🔹 Skilled in **Java, Spring Boot, RESTful APIs, SQL/NoSQL, Redis**  
 🔹 Experienced with **Elasticsearch, Kibana, Logstash for logging & analytics**  
-🔹 Proficient in **React, HTML, CSS, JavaScript, Bootstrap, jQuery**  
+🔹 Worked with **React, HTML, CSS, JavaScript, Bootstrap, jQuery**  
 🔹 Hands-on with **Git, Docker, Postman, Swagger**  
 
 💡 Always improving: **System design, API development**  
