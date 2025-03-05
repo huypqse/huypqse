@@ -1,17 +1,20 @@
-# 🐱‍💻 About Me:
-🚀 **Phan Quang Huy | Aspiring Backend Java Developer**  
+## ✨ Phan Quang Huy | Backend Java Developer  
 
-🔹 **IT Student @ FPT University HCM | Major: Software Engineering**  
-🔹 Passionate about scalable, reliable, and secure backend systems  
-🔹 Skilled in **Java, Spring Boot, RESTful APIs, SQL/NoSQL, Redis**  
-🔹 Experienced with **Elasticsearch, Kibana, Logstash for logging & analytics**  
-🔹 Worked with **React, HTML, CSS, JavaScript, Bootstrap, jQuery**  
-🔹 Hands-on with **Git, Docker, Postman, Swagger**  
+### ⭐ About Me  
 
-💡 Always improving: **System design, API development**  
-⚡ Fun fact: *Backend is the invisible hero—ensuring everything runs seamlessly!*  
+🚀 Aspiring Backend Developer | Building Scalable & Reliable Systems  
 
-📬 **Open to internships & collaborations!**  
+🎓 IT Student @ FPT University HCM | Major: Software Engineering  
+💻 Tech Stack: Java, Spring Boot, RESTful APIs, SQL/NoSQL, Redis  
+📊 Logging & Monitoring: Elasticsearch, Kibana, Logstash  
+🌐 Frontend Knowledge: React, HTML, CSS, JavaScript, Bootstrap, jQuery  
+🧐 Tools & Technologies: Git, Docker, Postman, Swagger  
+🔍 Focus Areas: System Design, API Development, Microservices  
+⚡ Fun Fact: Backend is the invisible hero—ensuring everything runs seamlessly!  
+
+📨 Open to Internships & Collaborations
+
+
 
 ---
 
