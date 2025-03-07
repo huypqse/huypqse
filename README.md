@@ -1,4 +1,4 @@
-## ✨ Phan Quang Huy | Backend Java Developer  
+## ✨ Phan Quang Huy | Java Developer  
 
 ### ⭐ About Me  
 
