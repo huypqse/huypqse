@@ -39,3 +39,11 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
+---
+
+## 📈 GitHub Analytics
+<div align="center">
+  <img width="378" src="https://github-readme-stats-salesp07.vercel.app/api?username=huypqse&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=huypqse&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>
