@@ -3,15 +3,14 @@
 </a>
 </div>
 
-🚀 Aspiring Backend Developer | Building Scalable & Reliable Systems  
-
-🎓 IT Student @ FPT University HCM | Major: Software Engineering  
-💻 Tech Stack: Java, Spring Boot, RESTful APIs, SQL/NoSQL, Redis  
-📊 Logging & Monitoring: Elasticsearch, Kibana, Logstash  
-🌐 Frontend Knowledge: React, HTML, CSS, JavaScript, Bootstrap, jQuery  
-🧐 Tools & Technologies: Git, Docker, Postman, Swagger  
-🔍 Focus Areas: System Design, API Development  
-⚡ Fun Fact: Backend is the invisible hero—ensuring everything runs seamlessly!  
+ Aspiring Backend Developer | Building Scalable & Reliable Systems  
+ IT Student @ FPT University HCM | Major: Software Engineering  
+ Tech Stack: Java, Spring Boot, RESTful APIs, SQL/NoSQL, Redis  
+ Logging & Monitoring: Elasticsearch, Kibana, Logstash  
+ Frontend Knowledge: React, HTML, CSS, JavaScript, Bootstrap, jQuery  
+ Tools & Technologies: Git, Docker, Postman, Swagger  
+ Focus Areas: System Design, API Development  
+ Fun Fact: Backend is the invisible hero—ensuring everything runs seamlessly!  
 
 📨 Open to Internships & Collaborations
 
