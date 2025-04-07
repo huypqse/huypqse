@@ -11,7 +11,7 @@
 - **Frontend Knowledge:** React, HTML, CSS, JavaScript, Bootstrap, jQuery
 - **Tools & Technologies:** Git, Docker, Postman, Swagger
 - **Focus Areas:** System Design, API Development
-- **Fun Fact:** Backend is the invisible hero—ensuring everything runs seamlessly
+- **Fun Fact:** Backend is the invisible hero—ensuring everything runs seamlessly!
 - **Open to Internships & Collaborations**
 
 
