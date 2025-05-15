@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=nx" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
 </p>
@@ -34,19 +35,23 @@
   <!-- Hàng 2 -->
   <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=cloudflare" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" />
 </p>
 
+<p align="center">
+  <!-- Hàng 3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" />
+</p>
 
----
-
-## 📈 GitHub Analytics
-<div align="center">
-  <img width="378" src="https://github-readme-stats-salesp07.vercel.app/api?username=huypqse&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=huypqse&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
