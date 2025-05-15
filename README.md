@@ -20,61 +20,25 @@
 ## 🛠 Technologies
 
 <p align="center">
-  <!-- Backend -->
+  <!-- Hàng 1 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
-</p>
-
-<p align="center">
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=nx" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" />
-</p>
-
-<p align="center">
-  <!-- Database & Cache -->
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
 </p>
 
 <p align="center">
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" />
+  <!-- Hàng 2 -->
   <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=cloudflare" width="50" height="50" />
-</p>
-
-<p align="center">
-  <!-- CI/CD & Monitoring -->
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50" />
-</p>
-
-<p align="center">
-  <!-- ELK Stack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="50" height="50" />
-</p>
-
-<p align="center">
-  <!-- API Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" />
-</p>
-
-<p align="center">
-  <!-- Version Control -->
   <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" />
 </p>
 
 
