@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=nx" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" />
