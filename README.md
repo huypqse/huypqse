@@ -6,7 +6,7 @@
 - **Aspiring Backend Developer | Building Scalable & Reliable Systems**
 - **IT Student @ FPT University HCM**
 - **Major:** Software Engineering
-- **Backend:** Java, Spring Boot, RESTful APIs, SQL/NoSQL, Redis
+- **Backend:** Golang, GoFrame, Java, Spring Boot, RESTful APIs, SQL/NoSQL, Redis
 - **Logging & Monitoring:** Elasticsearch, Kibana, Logstash
 - **Frontend Knowledge:** React, HTML, CSS, JavaScript, Bootstrap, jQuery
 - **Tools & Technologies:** Git, Docker, Postman, Swagger
