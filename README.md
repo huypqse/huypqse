@@ -3,7 +3,7 @@
 </a>
 </div>
 
-- **Aspiring Backend Developer | Building Scalable & Reliable Systems**
+- **Aspiring Golang Backend Developer | Building Scalable & Reliable Systems**
 - **IT Student @ FPT University HCM**
 - **Major:** Software Engineering
 - **Backend:** Golang, GoFrame, Java, Spring Boot, RESTful APIs, SQL/NoSQL, Redis
