@@ -33,8 +33,11 @@
 
 <p align="center">
   <!-- Hàng 2 -->
-  <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="50" height="50" />
+<!-- Golang -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" />
+
+<!-- Gin (logo từ repo chính thức cộng đồng) -->
+<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50" />
